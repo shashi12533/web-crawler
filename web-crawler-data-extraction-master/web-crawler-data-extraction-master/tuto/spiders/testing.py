@@ -1,5 +1,5 @@
 '''
-Author : Vipul Sharma
+Author : shashi bhushan
 This is script is basically the script of a spider which will crawl to the links as given in the start_urls driven by the conditions implied by
 RegEx 
 :NOTE: Run the MongoDB instance on the default host and port before running the crawling script by
